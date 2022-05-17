@@ -1,0 +1,15 @@
+/**
+
+@mainpage SETR 2021|2022
+
+@authors 
+	Denys Zadorozhnyy\n
+	Vítor Correia\n
+	André Campos
+	 
+Esta aplicação embutida simula o comportamento de uma máquina de vendas. A máquina aceita um\n conjunto de moedas, permite ao utilizador selecionar o produto que deseja, bem como, a compra\n desse mesmo produto e retorna o crédito.
+
+O utilizador interage com o sistema através de 8 botões. Desses botões, 4 servem para a inserção de\n moedas (10 cents, 20 cents, 50 cents, 1 EUR) e os restantes 4 exercem as funcões de Browse Up,\n Browse Down, Select Product e Return Credit.
+
+
+*/
